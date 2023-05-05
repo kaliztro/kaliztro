@@ -1,5 +1,35 @@
-### Hi there 👋
+<h1 align="center">
+  
 
+ 
+ ### Como dizia Obiwan Kenobi: Hello there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFlMjJmZWNmOWMxM2ZjM2RhMTcxOWQ1ZTQxNjAwY2UyODcyZjY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/sVFimSaeVvuThId1DM/giphy.gif" width=60>
+  
+</h1>
+
+##
+
+- 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistema na Unilasalle
+- 📖 Estou estudando as linguagens: C, C++, Javascript, Python e HTML 
+
+##
+
+<div align="center">
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaliztro&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  
+ <a href="https://discord.gg/WqmX4gXKkX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+<!-- ![Snake animation](https://github.com/kaliztro/kaliztro/blob/output/github-contribution-grid-snake.svg) -->  <!-- mudar a cor da cobrinha -->
+  
+</div>
+
+
+ 
+ 
 <!--
 **kaliztro/kaliztro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
