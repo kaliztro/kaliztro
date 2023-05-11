@@ -9,14 +9,14 @@
 ##
 
 - 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistema na Unilasalle
-- 📖 Estou estudando as linguagens: C, C++, Javascript, Python e HTML 
+- 📖 Estou estudando as linguagens: C, C++, Javascript, Python, Java e HTML 
 
 ##
 
 <div align="center">
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaliztro&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+ [![Kaliztro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaliztro&count_private=true&show_icons=true&theme=dark&icon_color=00d7ff&title_color=3498db&text_color=ffffff&border_color=3498db&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
   
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
