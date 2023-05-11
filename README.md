@@ -1,8 +1,8 @@
-<h1 align="center">
-  
+<div>
 
- 
- ### Como dizia Obiwan Kenobi: Hello there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFlMjJmZWNmOWMxM2ZjM2RhMTcxOWQ1ZTQxNjAwY2UyODcyZjY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/sVFimSaeVvuThId1DM/giphy.gif" width=60>
+<h1  align="center">
+  
+  Como diria Obiwan Kenobi: Hello there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFlMjJmZWNmOWMxM2ZjM2RhMTcxOWQ1ZTQxNjAwY2UyODcyZjY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/sVFimSaeVvuThId1DM/giphy.gif" width=60>
   
 </h1>
 
@@ -12,6 +12,8 @@
 - 📖 Estou estudando as linguagens: C, C++, Javascript, Python, Java e HTML 
 
 ##
+  
+</div>
 
 <div align="center">
   
