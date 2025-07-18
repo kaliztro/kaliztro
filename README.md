@@ -9,7 +9,7 @@
 ##
 
 - 🌱 Formado no cursando Analise e Desenvolvimento de sistema na Unilasalle
-- 📖 Estou estudando as linguagens: C, C++, Javascript, Python, Java e HTML
+- 📖 Estou estudando as linguagens: C#, C++, Javascript, Python, Java e HTML
 - 📖 Tenho experiência com 📨 Postman e 🤖 Cypress 
 
 ##
